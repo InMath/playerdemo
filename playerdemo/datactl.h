@@ -14,8 +14,8 @@
 #pragma once
 
 
-#include <windows.h>
-#include <objbase.h>
+//#include <windows.h>
+//#include <objbase.h>
 #include <thread>
 
 #include <inttypes.h>
